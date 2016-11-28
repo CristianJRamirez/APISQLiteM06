@@ -27,7 +27,7 @@ public class Main {
                     "\t\tSelect de una pelicula por ID del actor        -> Pulse el '6' \n" +
                     "\t\tSelect de una actor por ID de la pelicula      -> Pulse el '7' \n" +
                     "\t\tSelect Global                                  -> Pulse el '8' \n" +
-                    "\t\tSalir de la Aplicacion                         -> Pulse el  '0' " +
+                    "\t\tSalir de la Aplicacion                         -> Pulse el '0' " +
                     "");
             Scanner sc = new Scanner(System.in);
             int opcion = sc.nextInt();
