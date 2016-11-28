@@ -1,0 +1,7 @@
+Menu
+    -Insertado
+    -Select Global
+    -Crear Tabla
+    -select pelicula enconcreto
+    -Mostrar todas las peliculas con el id y todas los actores con el id
+    y que seleccione uno escribiendolo por pantalla y le de los datos de la pelicula o del actor
