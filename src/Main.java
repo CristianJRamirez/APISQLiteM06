@@ -90,8 +90,8 @@ public class Main {
     public static void pedirDatos(ArrayList<Actores> actores, ArrayList<Peliculas> pelis, ArrayList<PeliculasActores> PA)
     {
         themovieDBproject DB = new themovieDBproject();
-       // DB.getPeliculas(pelis);
-       // DB.getActores(actores);
+        DB.getPeliculas(pelis);
+        DB.getActores(actores);
         DB.getPeliculasActores(PA);
     }
 
